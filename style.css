@@ -1,0 +1,13 @@
+.d2{
+    background-color:blue; 
+    color: yellow;
+    font-size: medium;
+    font-family: cursive;
+}
+
+.d3{
+    background-color:black; 
+    color: rgb(102, 255, 0);
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
